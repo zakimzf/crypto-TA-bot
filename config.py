@@ -4,12 +4,12 @@ from binance.client import Client
 client = Client()
 # //////////////// Telegram /////////////////#
 
-telegram_api = "5111544595:AAFnlnQTsiTxZns0BPZWug7KOZF6BsUw96Q"
+telegram_api = "5679823096:AAHOhw9ipOlduOJkDUAGLpHZOyuMakDsQ10"
 wait = "Please Wait, it Takes sometime to Analysis Data"
 
 database_name = "telegram"
 sorry = "Sorry !.\n"
-admin = "1065670151"
+admin = "1146471541"
 
 # //////////////// Messages /////////////////#
 
